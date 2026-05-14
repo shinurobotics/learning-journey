@@ -1,0 +1,15 @@
+Two = 2
+Three = 3
+One = 1
+print(One)
+print(Two)
+print(Three)
+print(Two)
+print(One)
+Two = 4
+print(Two)
+
+Ronaldo = "Hello"
+Messi = "Visnu"
+print(Ronaldo)
+print(Messi)
