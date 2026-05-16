@@ -1,35 +1,38 @@
-#Two = 2
-#Three = 3
-#One = 1
-#One,Two,Three = 1,2,3
-#print(One)
-#print(Two)
-#print(Three)
-#print(Two)
-#print(One)
+Two = 2
+Three = 3
+One = 1
+One,Two,Three = 1,2,3
+print(One)
+print(Two)
+print(Three)
+print(Two)
+print(One)
+
 Two = 4
-#print(Two)
+print(Two)
+
 Ronaldo = "Hello" + "1"
 Messi = "Visnu"
-#print(Ronaldo)
-#print(Messi)
+print(Ronaldo)
+print(Messi)
 
-#def FunctionName() :
-    #newVar = "World"
-    #print(newVar)
-    #print(One)
-    #return
 #left = what you're giving the value  
 #right = what is the value is
-#FunctionName()
-#Five = 3 + 2
-#print(Five)
-#+,-,*,/ = plus,minus.times,divide
-#Five = 5 + 6
-#print(Five)
+
+Five = 3 + 2
+print(Five)
+Five = 5 + 6
+print(Five)
 count = 0
+
 print(count)
 count = count + 1
 print(count)
 count /= 2
 print(count)
+
+#+,-,*,/ = plus,minus.times,divide
+#count += number is same as count + number -> format
+#count -= number is same as count - number -> format
+#count *= number is same as count x nummber -> format
+#count /= number is same as count divide by number -> format
