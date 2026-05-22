@@ -14,3 +14,15 @@ Temperature =[]
 for tempo in range(0,-60,-15):
     Temperature.append(tempo)
     print(Temperature)
+
+#while (condition):
+#    action
+#    action 1
+#    action 2
+counter = 1
+Sum = 0
+while (counter <= 10):
+    print(counter)
+    Sum += counter
+    counter += 1 
+print(Sum)
