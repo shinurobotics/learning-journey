@@ -1,0 +1,16 @@
+#range(starting,stopping,steps)
+Numbers = []
+for num in range(10):
+    Numbers.append(num)
+    print(num)
+print(Numbers)
+
+Scores = []
+for test in range(85,100,5):
+    Scores.append(test)
+print(Scores)
+
+Temperature =[]
+for tempo in range(0,-60,-15):
+    Temperature.append(tempo)
+    print(Temperature)
