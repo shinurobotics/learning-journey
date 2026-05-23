@@ -1,0 +1,14 @@
+Participants = ["Jen","Alex","Tina","Joe","Ben"]
+position = 1 
+for name in Participants:
+    if name == "Tina":
+        print("About to break")
+        break
+    print("About to increment")
+    position += 1
+#print(position)
+
+for index in range(len(Participants)):
+    if Participants[index] == "Joe":
+        break
+print(index)
