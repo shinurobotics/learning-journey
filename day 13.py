@@ -27,3 +27,5 @@ VacationFile = open("VacationPlaces","r")
 TheWholeFile = VacationFile.read()
 print(TheWholeFile)
 VacationFile.close()
+
+stops at 28:20
