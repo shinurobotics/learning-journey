@@ -9,22 +9,28 @@ VacationFile.close()
 VacationFile = open("VacationPlaces","r")
 TheWholeFile = VacationFile.read()
 print(TheWholeFile)
+VacationFile.close()
 
+VacationFile = open("VacationPlaces","r")
 Firstline = VacationFile.readline()
-print(Firstline)
+print(Firstline, end = "")
 Secondline = VacationFile.readline()
 print(Secondline,end = "")
 for line in VacationFile:
     print(line, end = "")
 VacationFile.close()
 
-FinalSpot = "Thailand"
+FinalSpot = "Thailand\n"
 VacationFile = open("VacationPlaces","a")
 VacationFile.write(FinalSpot)
 VacationFile.close()
 VacationFile = open("VacationPlaces","r")
-TheWholeFile = VacationFile.read()
-print(TheWholeFile)
+for line in VacationFile:
+    print(line,end = "")
+    
 VacationFile.close()
 
-stops at 28:20
+with open("VacationPlaces","r") as VacationFile:
+    for line in VacationFile:
+        print(line)
+#automatically it closed
