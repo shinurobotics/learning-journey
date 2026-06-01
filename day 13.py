@@ -9,7 +9,6 @@ VacationFile.close()
 VacationFile = open("VacationPlaces","r")
 TheWholeFile = VacationFile.read()
 print(TheWholeFile)
-VacationFile.close()
 
 Firstline = VacationFile.readline()
 print(Firstline)
