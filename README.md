@@ -1,2 +1,2 @@
-# beginner-mode
+# Basic of Programming
 learning
