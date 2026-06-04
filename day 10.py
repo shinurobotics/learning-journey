@@ -26,7 +26,7 @@ for row in range(5): #0,1,2,3,4
 
 #usually print("hello"),
 #        print("world") na output vanthu hello
-                                        world
+#                                        world
 #if print ("hello",end=""),
 #   print ("world") na output na helloworld
 #end vanthu meaning dont go to next line
