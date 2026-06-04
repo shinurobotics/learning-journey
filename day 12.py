@@ -31,5 +31,3 @@ for i in range(5):
 
 #int(input()) only accepts +ve or -ve whole number
 #float(input()) accepts all the number
-
-stop at intro outro example for a inventory list at 26:50
