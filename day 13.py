@@ -1,3 +1,8 @@
+#File = open("Filename","x")
+# x can be r  for read
+#          w  for write
+#          a  for append
+#          r+ for read + append
 #File.close() -> close the file after using it
 
 VacationSpots = ["London","Paris","New York","Utah","Icelands"]
