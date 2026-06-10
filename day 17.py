@@ -22,6 +22,6 @@ for participants in ParticipantData:
     OutputFile.write("\n")
 OutputFile.close()
 
-IutputFile = open("ParticipantData.txt","r")
+OutputFile = open("ParticipantData.txt","r")
 Wholefile = OutputFile.read()
 print(Wholefile)
