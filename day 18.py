@@ -1,4 +1,4 @@
-ParticipantNumber = 2
+ParticipantNumber = 5
 ParticipantData = []
 registeredParticipants = 0
 OutputFile = open("ParticipantData.txt","w")
@@ -32,3 +32,11 @@ for line in InputFile:
      #"Ronaldo 41 Portugal \n".strip() -> "Ronaldo 41 Portugal"
      #"Ronaldo 41 Portugal".split() -> ["Ronaldo","41","Portugal"]
 InputFile.close()
+
+Age = {}
+for part in InputList:
+    if part[-1] in Age:
+        Age[part[-2]] += 1
+    else:
+        Age[part[-2]] = 1
+print(Age)
