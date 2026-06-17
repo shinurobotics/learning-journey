@@ -38,14 +38,14 @@ Course:
 - Basic of Programming (e-LATiH)
 
 # Current Progress
-✅ Python Fundamentals
-✅ Lists
-✅ Loops
-✅ Functions
-✅ Sets and Dictionaries
-✅ File Handling
-✅ Importing Modules
-✅ Error Handling
+- ✅ Python Fundamentals
+- ✅ Lists
+- ✅ Loops
+- ✅ Functions
+- ✅ Sets and Dictionaries
+- ✅ File Handling
+- ✅ Importing Modules
+- ✅ Error Handling
 
 🚀 Continuing to learn more advanced Python concepts and build larger projects.
 
