@@ -37,7 +37,7 @@ Each file contains practice exercises and examples from the lessons completed on
 Course:
 - Basic of Programming (e-LATiH)
 
-## Current Progress
+# Current Progress
 ✅ Python Fundamentals
 ✅ Lists
 ✅ Loops
