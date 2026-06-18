@@ -20,3 +20,4 @@ for i in range(1,11):
     print(i)
     time.sleep(1)
     
+https://docs.python.org/3/library/time.html - time library reference
