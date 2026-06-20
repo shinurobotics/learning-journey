@@ -40,4 +40,14 @@ finally:
     print("Finally")
 print("Past exception")
 
-Stops at 14:40
+try:
+    raise NameError
+except ValueError:
+    print("got a ValueError")
+except:
+    print("Other type of exception")
+    raise
+
+finally:
+    print("Finally")
+print("Past exception")
