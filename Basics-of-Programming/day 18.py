@@ -35,8 +35,9 @@ InputFile.close()
 
 Age = {}
 for part in InputList:
-    if part[-1] in Age:
-        Age[part[-2]] += 1
+    tempAge = int(part[-1])
+    if tempAge in Age:
+            Age[tempAge] += 1
     else:
-        Age[part[-2]] = 1
+        Age[tempAge] = 1
 print(Age)
