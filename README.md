@@ -68,6 +68,5 @@ This repository is continuously updated as I complete courses, practice coding, 
 
 ---
 
-## 👤 Author
-
-Visn
+# 👤 Author
+Visnu
