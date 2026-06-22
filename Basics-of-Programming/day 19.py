@@ -1,4 +1,4 @@
-ParticipantNumber = 5
+ParticipantNumber = 2
 ParticipantData = []
 registeredParticipants = 0
 OutputFile = open("ParticipantData.txt","w")
@@ -34,7 +34,7 @@ for line in InputFile:
 
 Age = {}
 for part in InputList:
-    tempAge = int(part[-1])
+    tempAge = int(part[1])
     if tempAge in Age:
             Age[tempAge] += 1
     else:
@@ -43,12 +43,27 @@ print(Age)
 
 Oldest = 0
 Youngest = 100
+mostOccuringage = 0
+counter = 0
 for tempAge in Age:
     if tempAge > Oldest:
         Oldest = tempAge
     if tempAge < Youngest:
         Youngest = tempAge
+    if Age[tempAge] >= counter:
+        counter = Age[tempAge]
+        mostOccuringage = tempAge
 print(Oldest)
 print(Youngest)
+print("The most occuring age is:",mostOccuringage,"with",counter,"participants")
+
+Country = {}
+for part in InputList:
+    tempCountry = part[-1]
+    if tempCountry in Country:
+            Country[tempCountry] += 1
+    else:
+        Country[tempCountry] = 1
+print("Countries that attended:",Country)
 
 InputFile.close()
