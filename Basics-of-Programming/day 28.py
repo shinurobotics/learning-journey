@@ -36,3 +36,5 @@ class Player:
             self.score += int(card)
         elif card in faceCardsDict: #"A"
             self.score += faceCardsDict[]
+
+stops at 19:15
