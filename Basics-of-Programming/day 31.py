@@ -67,15 +67,27 @@ class Player:
         else:
             self.bet = 0
 
+def printHouse(House):
+    for card in range(len(House.hand)):
+        if card == 0:
+            print("X",end = " ")
+        elif card == len(House.hand) - 1:
+            print(House.hand[card])
+        else:
+            print(House.hand[card],end = " ")
+
 cardDeck = createDeck()
-#print(cardDeck)
-#print(cardDeck.pop())
-#print(cardDeck)
 Firsthand = [cardDeck.pop(),cardDeck.pop()]
 Secondhand = [cardDeck.pop(),cardDeck.pop()]
 Player1 = Player(Firsthand)
 House = Player(Secondhand)
-print(Player1)
-print(House)
 
-stops at 5:35
+while(True):
+    Action = input("Do you want another card?:")
+    if Action.lower() == "yes":
+        Player1.hit(cardDeck.pop())
+        print(Player1)
+        printHouse(House)
+    else:
+        break
+printHouse(House)
