@@ -4,7 +4,7 @@
 This folder contains my notes, coding exercises, and projects completed while studying **Python Essentials 1** offered by **Cisco Networking Academy** in collaboration with the **Python Institute**.
 The course strengthens my Python programming skills and prepares me for building larger software projects and exploring Artificial Intelligence, Robotics, and Automation.
 
----
+--- 
 
 # Topics Covered
 - Python Fundamentals
