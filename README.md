@@ -14,13 +14,18 @@ My goal is to build a strong foundation in software development, AI, robotics, a
 - Importing Modules
 - Error Handling
 
-# Python – Basics to Brilliance in HD
-- Python Fundamentals
-- Object-Oriented Programming
-- File Operations
-- Modules and Libraries
-- Intermediate Python Concepts
-- Project Development
+# Python Essential One
+- Python basics and syntax
+- Variables and data types
+- Operators
+- Conditional statements (if, elif, else)
+- Loops (for, while)
+- Functions
+- Lists, tuples, and dictionaries
+- Modules and packages
+- Exceptions (error handling)
+- File handling
+- Basic Object-Oriented Programming (OOP)
 
 # Explore AI Basic
 - Introduction to Artificial Intelligence
