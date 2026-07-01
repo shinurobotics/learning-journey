@@ -14,7 +14,7 @@ My goal is to build a strong foundation in software development, AI, robotics, a
 - Importing Modules
 - Error Handling
 
-# Python - Basics from Brilliance in HD
+# ✅ Python - Basics from Brilliance in HD
 - Python Fundamentals
 - Python Syntax
 - Variables and Data Types
