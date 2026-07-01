@@ -11,7 +11,7 @@ The goal of this repository is to strengthen my Python knowledge, improve my pro
 - Variables and Data Types
 - Operators and Expressions
 - User Input and Output
-- Conditional Statements
+- Conditional Statements 
 - Boolean Logic
 - String Manipulation
 - Objects
