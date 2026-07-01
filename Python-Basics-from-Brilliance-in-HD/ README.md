@@ -46,15 +46,15 @@ Course:
 - Python – Basics to Brilliance in HD (e-LATiH)
 
 # Current Progress
-- ⏳ Python Fundamentals
-- ⏳ Python Syntax
-- ⏳ Variables and Data Types
-- ⏳ Operators and Expressions
-- ⏳ User Input and Output
-- ⏳ Conditional Statements
-- ⏳ String Manipulation
-- ⏳ Debugging
-- ⏳ Building Simple Applications
+- ✅ Python Fundamentals
+- ✅ Python Syntax
+- ✅ Variables and Data Types
+- ✅ Operators and Expressions
+- ✅ User Input and Output
+- ✅ Conditional Statements
+- ✅ String Manipulation
+- ✅ Debugging
+- ✅ Building Simple Applications
 🚀 Continuing to strengthen my Python programming skills and build larger software projects.
 
 # Future Goals
