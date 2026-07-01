@@ -50,7 +50,7 @@ Course:
 - ✅ Python Syntax
 - ✅ Variables and Data Types
 - ✅ Operators and Expressions
-- ✅ User Input and Output
+- ✅ User Input and Output 
 - ✅ Conditional Statements
 - ✅ String Manipulation
 - ✅ Debugging
