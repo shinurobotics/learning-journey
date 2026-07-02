@@ -20,5 +20,3 @@ if canVote:
 else:
     print(canVote)
     print("You are not eligible to vote")
-  
------------------------------------------------------------------------------------
