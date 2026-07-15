@@ -7,23 +7,22 @@ The goal of this repository is to strengthen my Python knowledge, improve my pro
 
 # Topics Covered
 - Python Fundamentals
-- Python Syntax
 - Variables and Data Types
-- Operators and Expressions
-- User Input and Output
-- Conditional Statements 
-- Boolean Logic
+- Python Syntax
 - String Manipulation
-- Objects
-- Membership Operators
-- Writing Python Scripts
-- Running Python Programs
-- Terminal & Command Line Basics
-- Using a Text Editor
-- Debugging
+- Operators
+- Boolean Values
+- Conditional Statements
+- Loops
+- Lists
+- Tuples
+- Dictionaries
+- User Input
+- Functions
+- Object-Oriented Programming (OOP)
 - Problem Solving
-- Building Simple Applications
-- Building Simple Games
+- Program Organization
+- Debugging
 
 # Repository Structure
 Each file contains practice exercises, coding examples, and mini projects completed throughout different lessons in the course.
