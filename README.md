@@ -16,23 +16,22 @@ My goal is to build a strong foundation in software development, AI, robotics, a
 
 # ✅ Python - Basics from Brilliance in HD
 - Python Fundamentals
-- Python Syntax
 - Variables and Data Types
-- Operators and Expressions
-- User Input and Output
-- Conditional Statements
-- Boolean Logic
+- Python Syntax
 - String Manipulation
-- Objects
-- Membership Operators
-- Writing Python Scripts
-- Running Python Programs
-- Terminal & Command Line Basics
-- Using a Text Editor
-- Debugging
+- Operators
+- Boolean Values
+- Conditional Statements
+- Loops
+- Lists
+- Tuples
+- Dictionaries
+- User Input
+- Functions
+- Object-Oriented Programming (OOP)
 - Problem Solving
-- Building Simple Applications
-- Building Simple Games
+- Program Organization
+- Debugging
 
 # Explore AI Basic
 - Introduction to Artificial Intelligence
