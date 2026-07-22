@@ -55,6 +55,8 @@ Course:
 - ✅ Debugging
 - ✅ Building Simple Applications
 
+🚀 Continuing to learn more advanced Python concepts and build larger projects.
+
 # Future Goals
 - Explore AI Basic
 - Artificial Intelligence Jobs & Skills
