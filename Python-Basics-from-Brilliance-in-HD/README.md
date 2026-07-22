@@ -1,4 +1,4 @@
-# Python – Basics to Brilliance in HD 🐍
+# Python – Basics to Brilliance in HD 
 This repository contains my Python programming exercises, notes, and projects completed while learning Python through the **Python – Basics to Brilliance in HD** course.
 
 # About
