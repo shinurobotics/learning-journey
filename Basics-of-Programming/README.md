@@ -1,4 +1,4 @@
-# Basic of Programming 🐍
+# Basic of Programming 
 This repository contains my Python programming exercises and notes while learning programming fundamentals.
 
 # About
@@ -57,4 +57,3 @@ Course:
 
 # Author
 Visnu
-
