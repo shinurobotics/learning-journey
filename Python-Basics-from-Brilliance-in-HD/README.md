@@ -54,7 +54,6 @@ Course:
 - ✅ String Manipulation
 - ✅ Debugging
 - ✅ Building Simple Applications
- 🚀 Continuing to strengthen my Python programming skills and build larger software projects.
 
 # Future Goals
 - Explore AI Basic
