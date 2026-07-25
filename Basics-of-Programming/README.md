@@ -19,9 +19,6 @@ The goal of this repository is to strengthen my understanding of programming con
 - Importing Modules
 - Error Handling
 
-#Repository Structure
-Each file contains practice exercises and examples from the lessons completed on that day.
-
 # Skills Learned
 - Writing Python programs
 - User input handling
