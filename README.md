@@ -33,11 +33,18 @@ My goal is to build a strong foundation in software development, AI, robotics, a
 - Program Organization
 - Debugging
 
-# Explore AI Basic
-- Introduction to Artificial Intelligence
-- AI Applications
-- Machine Learning Fundamentals
-- AI Ethics and Future Trends
+# ✅ Explore AI Basic
+- History of Artificial Intelligence
+- What is Artificial Intelligence
+- Knowledge vs Intelligence
+- Data Everywhere
+- Finding Patterns in Data
+- Machine Learning
+- Types of Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- AI Algorithms
+- AI in Action
 
 # Artificial Intelligence Jobs & Skills
 - AI Career Pathways
