@@ -4,16 +4,19 @@ My goal is to build a strong foundation in software development, AI, robotics, a
 
 # Courses
 # ✅ Basics of Programming
+- Python Fundamentals
 - Variables and Data Types
 - Input and Output
 - Lists
 - Loops
+- Conditional Statements
 - Functions
-- Sets and Dictionaries
+- Sets
+- Dictionaries
 - File Handling
 - Importing Modules
 - Error Handling
-
+  
 # ✅ Python - Basics from Brilliance in HD
 - Python Fundamentals
 - Variables and Data Types
